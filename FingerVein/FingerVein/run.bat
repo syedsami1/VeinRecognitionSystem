@@ -1,0 +1,2 @@
+python FingerVein.py
+pause
